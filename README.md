@@ -1,2 +1,2 @@
-# Marinka
+# Marin
 New cryptocurrency
